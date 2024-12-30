@@ -37,7 +37,8 @@ To run this project, you'll need the following Python libraries:
    ```bash
    pip install -r requirements.txt
    ```
-   
+
+
 ## Project Structure
 ```
 Image-to-Sketch
